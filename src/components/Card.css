@@ -1,0 +1,6 @@
+*{
+	box-sizing: border-box;
+}
+img.card {
+	width: 200px;
+}
